@@ -1,0 +1,5 @@
+My name is Deva.
+I am a CSE student at Vignan University.
+I am passionate about sports and development.
+I'm learning Git and GitHub.
+This is my first GitHub project.
